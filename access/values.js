@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "02.02.2004"; // Дата рождения
-var fullname = "Новиків Даніл Олександрович" // ФИО
+var fullname = "Новіків Даніл Олександрович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
